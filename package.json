@@ -1,0 +1,23 @@
+{
+  "name": "xalwadkaahee",
+  "version": "1.2.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdirahman Tusbahle",
+  "license": "ISC",
+  "homepage": "https://github.com/Tusbahle/testonly/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tusbahle/testonly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tusbahle/testonly/issues"
+  },
+  "engines": {
+    "npm": ">=5.5.0",
+    "node": ">=9.3.0"
+  }
+}
